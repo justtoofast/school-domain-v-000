@@ -8,4 +8,11 @@ class School
   def roster
     {}
   end
+
+  def add_student(name, grade)
+    roster[new_student] = []
+
+
+  end
+
 end
